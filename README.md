@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Alwin V J
+- 🌱 I’m currently learning Data Science, exploring its core algorithms, techniques, and all the essential tools required to analyze and draw insights from data
 - 👀 I’m interested in coding and creating useful ai agents and ai based applications
-- 🌱 I’m currently learning python, django and flask.
+- 🌱 Masterd in Django and Flutter frameworks.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
