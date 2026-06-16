@@ -3,7 +3,7 @@
 - 👀 I’m interested in coding and creating useful ai agents and ai based applications
 - 🌱 Masterd in Django and Flutter frameworks.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... alwinvj5@gmail.com
 
 <!---
 AlwinVJ/AlwinVJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
