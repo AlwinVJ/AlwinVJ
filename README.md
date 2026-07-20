@@ -12,9 +12,9 @@ I am passionate about software development, artificial intelligence, and continu
 
 ## Technologies
 
-* **Languages:** Python, Dart, SQL
-* **Frameworks:** Django, Flutter
-* **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn
+* **Languages:** Python, Dart, SQL, Java, C, 
+* **Frameworks:** Django, Flutter, Flask
+* **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 * **Tools:** Git, GitHub, Jupyter Notebook, Google Colab, VS Code
 
 ## Goals
