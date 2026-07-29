@@ -12,8 +12,8 @@ I am passionate about software development, artificial intelligence, and continu
 
 ## Technologies
 
-* **Languages:** Python, Dart, SQL, Java, C, 
-* **Frameworks:** Django, Flutter, Flask
+* **Languages:** HTML, CSS, Python, Dart, SQL, Java, C, 
+* **Frameworks:** Django, Flutter, Flask, FastAPI
 * **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 * **Tools:** Git, GitHub, Jupyter Notebook, Google Colab, VS Code
 
