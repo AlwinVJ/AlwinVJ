@@ -4,11 +4,18 @@ I am passionate about software development, artificial intelligence, and continu
 
 ## About Me
 
-* Currently learning **Data Science**, with a focus on data preprocessing, exploratory data analysis (EDA), statistics, machine learning algorithms, and the tools used throughout the data science workflow.
-* Building strong expertise in **Python** while continuously improving my problem-solving and software engineering skills.
-* Experienced in developing applications using **Django** and **Flutter**.
-* Interested in designing and developing **AI agents**, intelligent automation systems, and AI-powered applications.
+* Currently learning Data Science, with a focus on data preprocessing, exploratory data analysis (EDA), statistics, machine learning algorithms, and the tools used throughout the data science workflow.
+
+* Building strong expertise in Python while continuously improving my problem-solving and software engineering skills.
+
+* Experienced in developing applications using Django and Flutter.
+
+* Interested in designing and developing AI agents, intelligent automation systems, and AI-powered applications.
+
 * Actively working on projects that strengthen my knowledge of Machine Learning, Data Science, and Artificial Intelligence.
+
+* Currently working as a freelance Data Analyst, specializing in Exploratory Data Analysis (EDA), where I analyze datasets, extract actionable insights, create visualizations, and deliver data-driven reports for clients.
+
 
 ## Technologies
 
