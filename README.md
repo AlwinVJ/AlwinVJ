@@ -8,7 +8,7 @@ I am passionate about software development, artificial intelligence, and continu
 
 * Building strong expertise in Python while continuously improving my problem-solving and software engineering skills.
 
-* Experienced in developing applications using Django, Flutter, Node.JS and Flask.
+* Experienced in developing applications using Django, Flutter, Node.js and Flask.
 
 * Interested in designing and developing AI agents, intelligent automation systems, and AI-powered applications.
 
