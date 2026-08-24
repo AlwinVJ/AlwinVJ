@@ -1,14 +1,14 @@
 # Hi, I'm Alwin V J
 
-I am passionate about software development, artificial intelligence, and continuous learning. I enjoy building practical applications, solving real-world problems through code, and exploring emerging technologies in AI and Machine Learning.
+I am passionate about software development, artificial intelligence, and continuous learning. I enjoy building practical applications, solving real-world problems through code and exploring emerging technologies in AI and Machine Learning.
 
 ## About Me
 
-* Currently learning Data Science, with a focus on data preprocessing, exploratory data analysis (EDA), statistics, machine learning algorithms, and the tools used throughout the data science workflow.
+* Currently learning Data Science, with a focus on data preprocessing, exploratory data analysis (EDA), statistics, machine learning algorithms and the tools used throughout the data science workflow.
 
 * Building strong expertise in Python while continuously improving my problem-solving and software engineering skills.
 
-* Experienced in developing applications using Django and Flutter.
+* Experienced in developing applications using Django, Flutter, Node.JS and Flask.
 
 * Interested in designing and developing AI agents, intelligent automation systems, and AI-powered applications.
 
