@@ -50,17 +50,17 @@ I build practical AI systems end to end in Python, from data analysis and model 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://alwinvj.github.io/alwin-vj-portfolio/">AIdeo</a></h3>
+      <b><a href="https://alwinvj.github.io/alwin-vj-portfolio/">AIdeo</a></b><br><br>
       AI-powered video generation and computer vision workflows.
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://alwinvj.github.io/alwin-vj-portfolio/">MachineQuest</a></h3>
+      <b><a href="https://alwinvj.github.io/alwin-vj-portfolio/">MachineQuest</a></b><br><br>
       A machine learning project, with the full write-up on my portfolio.
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3><a href="https://github.com/AlwinVJ/eda-with-python">EDA with Python</a></h3>
+      <b><a href="https://github.com/AlwinVJ/eda-with-python">EDA with Python</a></b><br><br>
       Interactive EDA learning resource with visual explanations and <i>Eddie</i>, an AI chatbot that gives page-specific guidance.
     </td>
   </tr>
