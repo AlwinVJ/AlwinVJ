@@ -59,19 +59,9 @@ I build practical AI systems end to end in Python, from data analysis and model 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <h3><a href="https://github.com/AlwinVJ/eda-with-python">EDA with Python</a></h3>
       Interactive EDA learning resource with visual explanations and <i>Eddie</i>, an AI chatbot that gives page-specific guidance.
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://alwinvj.github.io/Boosting-Lab/">Boosting Lab</a></h3>
-      Interactive exploration of ensemble learning and boosting algorithms.
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3><a href="https://alwinvj.github.io/Linear_Regression_Lab/">Linear Regression Lab</a></h3>
-      Understanding linear regression through hands-on visualizations.
     </td>
   </tr>
 </table>
