@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020D08,100:2E8B57&height=190&section=header&text=Alwin%20V%20J&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Data%20Scientist%20%C2%B7%20Generative%20AI%20Engineer&descAlignY=60&descSize=18" alt="Alwin V J banner" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=2E8B57&center=true&vCenter=true&width=620&lines=Python-first+engineer+building+AI-powered+solutions;LLM+applications+%C2%B7+Computer+Vision+%C2%B7+Full-Stack;Learning+by+building%2C+improving+by+iterating" alt="Typing animation" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=2E8B57&center=true&vCenter=true&width=620&lines=Building+AI-powered+solutions;LLM+applications+%C2%B7+Computer+Vision+%C2%B7+Full-Stack;Learning+by+building%2C+improving+by+iterating" alt="Typing animation" /></a>
 
 ![Primary Language](https://img.shields.io/badge/Primary%20Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
